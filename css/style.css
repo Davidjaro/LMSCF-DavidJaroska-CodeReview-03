@@ -284,8 +284,8 @@ select{
 		display: none;
 	}
 	.content-bg{
-		height: 70%;
-		margin-top: 30%;
+		height: 100%;
+		margin-top: 60%;
 	}
 	.select{
 		flex-direction: column;
